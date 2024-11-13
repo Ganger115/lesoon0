@@ -9,5 +9,3 @@ stud.sort() #Сортирует множество по порядку Алфа�
 
 each_students_average_score = dict(zip(stud, grade)) #Делает словарь(dict) из двух списков
 print(each_students_average_score)
-
-print(type(grade))
